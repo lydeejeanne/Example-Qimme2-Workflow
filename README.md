@@ -1,5 +1,5 @@
 # Qimme2 Workflow Scripts
-##This was used to analyze anglerfish symbionts present in both the animal and in the water sample
+This was used to analyze anglerfish symbionts present in both the animal and in the water sample
 
 ## Preparation Scripts
 ### Pairing the singletons
